@@ -1,0 +1,1433 @@
+[Real Artist] | [Predicted Artist] | [Accuracy] | [Lyric]
+
+Beyonce | MichaelJackson | False | To the left, to the left 
+Beyonce | MichaelJackson | False | To the left, to the left 
+Beyonce | Beyonce | True | So remove your bags, let me call you a cab 
+Beyonce | MargaretAtwood | False | Standin' in the front yard 
+Beyonce | Beyonce | True | Tellin' me how I'm such a fool 
+Beyonce | TaylorSwift | False | Talkin' 'bout how I'll never ever find a man like you 
+Beyonce | TaylorSwift | False | You got me twisted 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | Beyonce | True | I could have another you in a minute 
+Beyonce | LadyGaga | False | Matter of fact, he will be here in a minute, baby 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | BillyJoel | False | Mm 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | Beyonce | True | I can have another you by tomorrow 
+Beyonce | SamSmith | False | So do not you ever for a second get to thinking 
+Beyonce | TaylorSwift | False | You're irreplaceable 
+Beyonce | SmashMouth | False | So go ahead and get gone 
+Beyonce | LadyGaga | False | Call up that chick and see if she is home 
+Beyonce | Beyonce | True | Oops, I bet you thought that I did not know 
+Beyonce | Beyonce | True | What did you think I was puttin' you out for? 
+Beyonce | TaylorSwift | False | Because you was untrue 
+Beyonce | TaylorSwift | False | Rollin' her 'round in the car that I bought you 
+Beyonce | MichaelJackson | False | To the left, to the left 
+Beyonce | SamSmith | False | Baby, drop them keys 
+Beyonce | HarryStyles | False | Hurry up before your taxi leaves 
+Beyonce | MargaretAtwood | False | Standin' in the front yard 
+Beyonce | Beyonce | True | Tellin' me how I'm such a fool 
+Beyonce | TaylorSwift | False | Talkin' 'bout how I'll never ever find a man like you 
+Beyonce | TaylorSwift | False | You got me twisted 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | Beyonce | True | I could have another you in a minute 
+Beyonce | LadyGaga | False | Matter of fact, he will be here in a minute, baby 
+Beyonce | MargaretAtwood | False | Everything you own in the box to the left 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | CharliePuth | False | You must not know 'bout me (Me) 
+Beyonce | Beyonce | True | I will have another you by tomorrow 
+Beyonce | SamSmith | False | So do not you ever for a second get to thinking 
+Beyonce | TaylorSwift | False | You're irreplaceable (Irreplaceable) 
+Beyonce | Beyonce | True | So since I'm not your everything (Irreplaceable) 
+Beyonce | Quadeca | False | How about I'll be nothing (Nothing) 
+Beyonce | JohnLennon | False | Nothing at all to you (Nothing) 
+Beyonce | SamSmith | False | Baby, I will not shed a tear for you (I will not shed a tear) 
+Beyonce | Cavetown | False | I will not lose a wink of sleep 
+Beyonce | LadyGaga | False | In the closet, that is my stuff 
+Beyonce | MichaelJackson | False | 'Cause the truth of the matter is 
+Beyonce | Coldplay | False | Replacing you was so easy 
+Beyonce | MichaelJackson | False | To the left, to the left 
+Beyonce | MichaelJackson | False | To the left, to the left 
+Beyonce | BillyJoel | False | Mm 
+Beyonce | MichaelJackson | False | To the left, to the left 
+Beyonce | MargaretAtwood | False | Everything you own in the box to the left 
+Beyonce | MichaelJackson | False | To the left, to the left 
+Beyonce | RickAstley | False | Don't you ever for a second get to thinking 
+Beyonce | TaylorSwift | False | You're irreplaceable 
+Beyonce | Drake | False | Yes, if I bought it, nigga, please do not touch (Don't touch) 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | Beyonce | True | I could have another you in a minute 
+Beyonce | LadyGaga | False | Matter of fact, he will be here in a minute, baby 
+Beyonce | CharliePuth | False | You must not know 'bout me 
+Beyonce | CharliePuth | False | You must not know 'bout me (Me) 
+Beyonce | Beyonce | True | I can have another you by tomorrow 
+Beyonce | SamSmith | False | So do not you ever for a second get to thinking 
+Beyonce | SamSmith | False | You must not know 'bout me (Baby, yeah) 
+Beyonce | SamSmith | False | You must not know 'bout me (Yeah) 
+Beyonce | MacMiller | False | And keep talkin' that mess, that is fine 
+Beyonce | Beyonce | True | I could have another you in a minute 
+Beyonce | Cavetown | False | Matter of fact, he will be here in a minute 
+Beyonce | HarryStyles | False | You can pack all your bags, we are finished 
+Beyonce | CharliePuth | False | (You must not know 'bout me) 
+Beyonce | DanReynolds | False | 'Cause you made your bed, now lay in it 
+Beyonce | CharliePuth | False | (You must not know 'bout me, me) 
+Beyonce | Beyonce | True | I can have another you by tomorrow 
+Beyonce | RickAstley | False | Don't you ever for a second get to thinking 
+Beyonce | TaylorSwift | False | You're irreplaceable 
+Beyonce | LucyDacus | False | But could you walk and talk at the same time? 
+Beyonce | LadyGaga | False | And, it is my name that is on that Jag 
+BillyJoel | Beyonce | False | I can find a lover, I can find a friend 
+BillyJoel | Beyonce | False | I can have security until the bitter end 
+BillyJoel | Beyonce | False | Anyone can comfort me with promises again 
+BillyJoel | RickAstley | False | I know, I know, I know 
+BillyJoel | DanReynolds | False | When I'm deep inside of me 
+BillyJoel | Quadeca | False | Don't be too concerned 
+BillyJoel | SamSmith | False | I will not ask for nothin' while I'm gone 
+BillyJoel | Olivia_Rodrigo | False | But when I want sincerity 
+BillyJoel | Beyonce | False | Tell me, where else can I turn? 
+BillyJoel | TaylorSwift | False | 'Cause you are the one that I depend upon 
+BillyJoel | MargaretAtwood | False | "Honesty" is such a lonely word 
+BillyJoel | Olivia_Rodrigo | False | Everyone is so untrue 
+BillyJoel | RickAstley | False | Honesty is hardly ever heard 
+BillyJoel | Beyonce | False | And mostly what I need from you 
+BillyJoel | LadyGaga | False | Honesty 
+BillyJoel | MichaelJackson | False | If you search for tenderness 
+BillyJoel | Quadeca | False | It is not hard to find 
+BillyJoel | Beyonce | False | You can have the love you need to live 
+BillyJoel | MichaelJackson | False | But if you look for truthfulness 
+BillyJoel | SmashMouth | False | You might just as well be blind 
+BillyJoel | BillyJoel | True | It always seems to be so hard to give 
+BillyJoel | MargaretAtwood | False | "Honesty" is such a lonely word 
+BillyJoel | Olivia_Rodrigo | False | Everyone is so untrue 
+BillyJoel | RickAstley | False | Honesty is hardly ever heard 
+BillyJoel | Beyonce | False | And mostly what I need from you 
+BillyJoel | Drake | False | I can always find someone 
+BillyJoel | NoelGallagher | False | To say they sympathize 
+BillyJoel | LadyGaga | False | If I wear my heart out on my sleeve 
+BillyJoel | Olivia_Rodrigo | False | But I do not want some pretty face 
+BillyJoel | ConanGray | False | To tell me pretty lies 
+BillyJoel | Olivia_Rodrigo | False | All I want is someone to believe 
+BillyJoel | MargaretAtwood | False | "Honesty" is such a lonely word 
+BillyJoel | Olivia_Rodrigo | False | Everyone is so untrue 
+BillyJoel | RickAstley | False | Honesty is hardly ever heard 
+BillyJoel | Beyonce | False | And mostly what I need from you 
+caamp | TaylorSwift | False | I hope you know if I go there, I'm going there for you 
+caamp | TaylorSwift | False | and if I go there, I will not be coming home real soon 
+caamp | CharliePuth | False | we could laugh, we could shout, sing a song to get it all out oh we could whisper 
+caamp | TaylorSwift | False | we could dance, run about, but you keep staring at each others mouths 
+caamp | SmashMouth | False | Boy go on, kiss her 
+caamp | RickAstley | False | It's all the things she do, it is all the things she does 
+caamp | RickAstley | False | It's all the things she do, it is everything she does 
+caamp | Quadeca | False | I think there might be snow there, this time the year 
+caamp | LadyGaga | False | You'll bring your snowshoes, and I'll bring the beer 
+caamp | CharliePuth | False | we could laugh, we could shout, sing a song to get it all out oh we could whisper 
+caamp | TaylorSwift | False | we could dance, run about, but you keep staring at each others mouths 
+caamp | SmashMouth | False | Boy go on, kiss her 
+caamp | RickAstley | False | It's all the things she do, it is everything she does 
+caamp | RickAstley | False | It's all that we have been through, the things that make us, us. 
+caamp | solange | False | Go on and get it now 
+CatStevens | LadyGaga | False | "Sitting" 
+CatStevens | LadyGaga | False | Oh I'm on my way, I know I am 
+CatStevens | HarryStyles | False | Somewhere not so far from here 
+CatStevens | Beyonce | False | All I know is all I feel right now 
+CatStevens | Cavetown | False | I feel the power growing in my hair 
+CatStevens | Beyonce | False | Sitting on my own not by myself 
+CatStevens | SamSmith | False | Everybody's here with me 
+CatStevens | SamSmith | False | I do not need to touch your face to know 
+CatStevens | Beyonce | False | And I do not need to use my eyes to see 
+CatStevens | Drake | False | I keep on wondering if I sleep too long 
+CatStevens | Beyonce | False | Will I always wake up the same, or so? 
+CatStevens | Drake | False | And keep on wondering if I sleep too long 
+CatStevens | Beyonce | False | Will I even wake up again, or something 
+CatStevens | LadyGaga | False | Oh I'm on my way I know I am 
+CatStevens | TaylorSwift | False | But times there were when I thought not 
+CatStevens | NoahKahan | False | Bleeding half my soul in bad company 
+CatStevens | Beyonce | False | I thank the moon I had the strength to stop 
+CatStevens | SamSmith | False | I'm not making love to anyone's wishes 
+CatStevens | Beyonce | False | Only for that light I see 
+CatStevens | TaylorSwift | False | 'Cause when I'm dead and lowered low in my grave 
+CatStevens | MichaelJackson | False | That's gonna be the only thing that is left of me 
+CatStevens | CatStevens | True | And if I make it to the waterside 
+CatStevens | Beyonce | False | Will I even find me a boat, or so? 
+CatStevens | CatStevens | True | And if I make it to the waterside 
+CatStevens | LadyGaga | False | I'll be sure to write you note or something 
+CatStevens | LadyGaga | False | Oh I'm on my way, I know I am 
+CatStevens | HarryStyles | False | Somewhere not so far from here 
+CatStevens | Beyonce | False | All I know is all I feel right now 
+CatStevens | Cavetown | False | I feel the power growing in my hair 
+CatStevens | StevieNicks | False | Oh life is like a maze of doors 
+CatStevens | Beyonce | False | And they all open from the side you are on 
+CatStevens | SmashMouth | False | Just keep on pushing hard boy, try as you may 
+CatStevens | Drake | False | You're going to wind up where you started from 
+CatStevens | Drake | False | You're going to wind up where you started from 
+Cavetown | CharliePuth | False | I am just a fool to keep on chasing after nothing great 
+Cavetown | CharliePuth | False | You are just a fool to keep pretending that you are loving me 
+Cavetown | TaylorSwift | False | I do not know where I'm supposed to go 
+Cavetown | GregoryAlanIsakov | False | Oh oh oh oh oh oh-oh oh 
+Cavetown | GregoryAlanIsakov | False | Oh oh oh oh oh-oh oh 
+Cavetown | LadyGaga | False | Call me on the phone at three, I talk to you while half asleep 
+Cavetown | Beyonce | False | Complaining 'bout your mother so I take you to the cemetery 
+Cavetown | Beyonce | False | Rant to me I like the sound, I like your voice, I like your mouth 
+Cavetown | TaylorSwift | False | Oh, oh 
+Cavetown | LadyGaga | False | Mm-mm-m 
+Cavetown | LucyDacus | False | Cycling to school at 7:30 in the morning 
+Cavetown | LadyGaga | False | I am still your baby boy I'm stuck in 2013 
+Cavetown | LadyGaga | False | Don't understand my body, Washing machine confuses me 
+Cavetown | TaylorSwift | False | Oh, oh 
+Cavetown | LadyGaga | False | Mm-mm-m 
+Cavetown | CharliePuth | False | I am such a fool to keep on chasing after nothing great 
+Cavetown | CharliePuth | False | You are such a fool to keep pretending that you are loving me 
+Cavetown | TaylorSwift | False | I do not know where I'm supposed to go 
+Cavetown | GregoryAlanIsakov | False | Oh oh oh oh oh oh-oh oh 
+Cavetown | GregoryAlanIsakov | False | Oh oh oh oh oh-oh oh 
+Cavetown | CharliePuth | False | I was such a fool to keep on chasing after nothing great 
+Cavetown | RickAstley | False | You were such a fool to keep pretending that you are loving me 
+Cavetown | TaylorSwift | False | I do not know where I'm supposed to go 
+Cavetown | ConanGray | False | (Look in the mirror, I love that boy, do not hurt my dear, do not hurt my joy) 
+Cavetown | GregoryAlanIsakov | False | Oh oh oh oh oh oh-oh oh 
+Cavetown | GregoryAlanIsakov | False | Oh oh oh oh oh-oh oh 
+CharliePuth | JohnLennon | False | Look how all the tables 
+CharliePuth | Beyonce | False | Look how all the tables have turned 
+CharliePuth | Beyonce | False | Guess you are finally realizing how bad you messed it up 
+CharliePuth | CharliePuth | True | Girl, you are only makin' 
+CharliePuth | CharliePuth | True | Girl, you are only makin' it worse 
+CharliePuth | ConanGray | False | When you call like you always do when you want someone 
+CharliePuth | LucyDacus | False | You took away a year 
+CharliePuth | Olivia_Rodrigo | False | Of my *bleep*in' life 
+CharliePuth | SmashMouth | False | And I cannot get it back no more 
+CharliePuth | Beyonce | False | So when I see those tears 
+CharliePuth | Beyonce | False | Comin' out your eyes 
+CharliePuth | MichaelJackson | False | I hope it is me they are for 
+CharliePuth | Beyonce | False | You did not love when you had me 
+CharliePuth | CharliePuth | True | But now, you need me so badly 
+CharliePuth | SmashMouth | False | You cannot be serious (Ha-ha-ha) 
+CharliePuth | MacMiller | False | That's hilarious (Ha-ha-ha-ha-ha) 
+CharliePuth | ConanGray | False | Thinkin' I would still want you 
+CharliePuth | Beyonce | False | After the things you put me through 
+CharliePuth | CharliePuth | True | Yeah, you are delirious (Ha-ha-ha) 
+CharliePuth | MacMiller | False | That's hilarious (Ha-ha-ha-ha-ha) 
+CharliePuth | NoahKahan | False | Now you put the blame in 
+CharliePuth | NoahKahan | False | Now you put the blame in reverse 
+CharliePuth | Beyonce | False | Tryna make me feel guilty for everything you have done 
+CharliePuth | TheAllAmericanRejects | False | You're another lesson (You're another lesson) 
+CharliePuth | Beyonce | False | You're just another lesson I learned 
+CharliePuth | Drake | False | Don't give your heart to a girl who is still got a broken one 
+CharliePuth | LucyDacus | False | You took away a year 
+CharliePuth | Olivia_Rodrigo | False | Of my *bleep*in' life 
+CharliePuth | SmashMouth | False | And I cannot get it back no more 
+CharliePuth | Beyonce | False | So when I see those tears (When I see those tears) 
+CharliePuth | Beyonce | False | Comin' out your eyes 
+CharliePuth | MichaelJackson | False | I hope it is me they are for 
+CharliePuth | Beyonce | False | You did not love when you had me 
+CharliePuth | CharliePuth | True | But now, you need me so badly 
+CharliePuth | SmashMouth | False | You cannot be serious (Ha-ha-ha) 
+CharliePuth | MacMiller | False | That's hilarious (Ha-ha-ha-ha-ha) 
+CharliePuth | ConanGray | False | Thinkin' I would still want you 
+CharliePuth | Beyonce | False | After the things you put me through 
+CharliePuth | CharliePuth | True | Yeah, you are delirious (Ha-ha-ha, you are delirious) 
+CharliePuth | MacMiller | False | That's hilarious (Ha-ha-ha-ha-ha, that is hilarious) 
+CharliePuth | Beyonce | False | You did not love when you had me 
+CharliePuth | CharliePuth | True | But now, you need me so badly 
+CharliePuth | SmashMouth | False | You cannot be serious (You cannot be serious) (Ha-ha-ha) 
+CharliePuth | CharliePuth | True | That's hilarious (That's hilarious) (Ha-ha-ha-ha-ha) 
+CharliePuth | ConanGray | False | Thinkin' I would still want you (Oh, no, oh, oh) 
+CharliePuth | Beyonce | False | After the things you put me through 
+CharliePuth | CharliePuth | True | Yeah, you are delirious (You're delirious) (Ha-ha-ha) 
+CharliePuth | CharliePuth | True | That's hilarious (That's hilarious) (Ha-ha-ha-ha-ha) 
+CharliePuth | LadyGaga | False | Ha-ha-ha 
+CharliePuth | LadyGaga | False | Ha-ha-ha-ha-ha 
+Coldplay | Beyonce | False | I used to rule the world 
+Coldplay | MargaretAtwood | False | Seas would rise when I gave the word 
+Coldplay | TaylorSwift | False | Now in the morning, I sleep alone 
+Coldplay | Beyonce | False | Sweep the streets I used to own 
+Coldplay | Beyonce | False | I used to roll the dice 
+Coldplay | DanReynolds | False | Feel the fear in my enemy's eyes 
+Coldplay | KhalilGhibran | False | Listened as the crowd would sing 
+Coldplay | SmashMouth | False | "Now the old king is dead, long live the king" 
+Coldplay | Olivia_Rodrigo | False | One minute I held the key 
+Coldplay | TaylorSwift | False | Next, the walls were closed on me 
+Coldplay | NikDay | False | And I discovered that my castles stand 
+Coldplay | MargaretAtwood | False | Upon pillars of salt and pillars of sand 
+Coldplay | RickAstley | False | I hear Jerusalem bells a-ringing 
+Coldplay | StevieNicks | False | Roman cavalry choirs are singing 
+Coldplay | KhalilGhibran | False | Be my mirror, my sword and shield 
+Coldplay | MichaelJackson | False | My missionaries in a foreign field 
+Coldplay | SmashMouth | False | For some reason, I cannot explain 
+Coldplay | TaylorSwift | False | Once you'd gone, there was never 
+Coldplay | MargaretAtwood | False | Never an honest word 
+Coldplay | TaylorSwift | False | And that was when I ruled the world 
+Coldplay | MichaelJackson | False | It was a wicked and wild wind 
+Coldplay | JohnLennon | False | Blew down the doors to let me in 
+Coldplay | KhalilGhibran | False | Shattered windows and the sound of drums 
+Coldplay | Beyonce | False | People could not believe what I'd become 
+Coldplay | Beyonce | False | Revolutionaries wait 
+Coldplay | LadyGaga | False | For my head on a silver plate 
+Coldplay | MichaelJackson | False | Just a puppet on a lonely string 
+Coldplay | Olivia_Rodrigo | False | Oh, who would ever want to be king? 
+Coldplay | RickAstley | False | I hear Jerusalem bells a-ringing 
+Coldplay | StevieNicks | False | Roman cavalry choirs are singing 
+Coldplay | KhalilGhibran | False | Be my mirror, my sword and shield 
+Coldplay | MichaelJackson | False | My missionaries in a foreign field 
+Coldplay | SmashMouth | False | For some reason, I cannot explain 
+Coldplay | NoahKahan | False | I know Saint Peter will not call my name 
+Coldplay | MargaretAtwood | False | Never an honest word 
+Coldplay | TaylorSwift | False | But that was when I ruled the world 
+Coldplay | LadyGaga | False | Hear Jerusalem bells a-ringing 
+Coldplay | StevieNicks | False | Roman cavalry choirs are singing 
+Coldplay | KhalilGhibran | False | Be my mirror, my sword and shield 
+Coldplay | MichaelJackson | False | My missionaries in a foreign field 
+Coldplay | SmashMouth | False | For some reason, I cannot explain 
+Coldplay | NoahKahan | False | I know Saint Peter will not call my name 
+Coldplay | MargaretAtwood | False | Never an honest word 
+Coldplay | TaylorSwift | False | But that was when I ruled the world 
+ConanGray | RickAstley | False | One, two 
+ConanGray | TaylorSwift | False | It's been a couple months 
+ConanGray | MacMiller | False | That's just about enough time 
+ConanGray | RickAstley | False | For me to stop crying when I look at all the pictures 
+ConanGray | LadyGaga | False | Now I kinda smile, I have not felt that in a while 
+ConanGray | MacMiller | False | It's late, I hear the door 
+ConanGray | MichaelJackson | False | Bell ringing and it is pouring 
+ConanGray | Beyonce | False | I open up that door, see your brown eyes at the entrance 
+ConanGray | CharliePuth | False | You just wanna talk and 
+ConanGray | SmashMouth | False | I cannot turn away a wet dog 
+ConanGray | CharliePuth | False | But please do not ruin this for me 
+ConanGray | Quadeca | False | Please do not make it harder than it already is 
+ConanGray | CharliePuth | False | I'm trying to get over this 
+ConanGray | ConanGray | True | I wish that you would stay in my memories 
+ConanGray | CharliePuth | False | But you show up today, just to ruin things 
+ConanGray | LadyGaga | False | I wanna put you in the past 'cause I'm traumatized 
+ConanGray | MichaelJackson | False | But you are not letting me do that, 'cause tonight 
+ConanGray | NoahKahan | False | You're all drunk in my kitchen, curled in the fetal position 
+ConanGray | RickAstley | False | Too busy playing the victim to be listening to me when I say 
+ConanGray | ConanGray | True | "I wish that you would stay in my memories" 
+ConanGray | LadyGaga | False | In my memories, stay in my memories 
+ConanGray | TaylorSwift | False | Now I cannot say goodbye if you stay here the whole night 
+ConanGray | CatStevens | False | You see, it is hard to find an end to something that you keep beginning 
+ConanGray | LucyDacus | False | Over and over again 
+ConanGray | Olivia_Rodrigo | False | I promise that the ending always stays the same 
+ConanGray | MichaelJackson | False | So there is no good reason in make believing that we could ever exist again 
+ConanGray | SmashMouth | False | I cannot be your friend, cannot be your lover 
+ConanGray | LadyGaga | False | Can't be the reason we hold back each other from falling in love 
+ConanGray | TaylorSwift | False | With somebody other than me 
+ConanGray | ConanGray | True | I wish that you would stay in my memories 
+ConanGray | CharliePuth | False | But you show up today, just to ruin things 
+ConanGray | LadyGaga | False | I wanna put you in the past 'cause I'm traumatized 
+ConanGray | MichaelJackson | False | But you are not letting me do that, 'cause tonight 
+ConanGray | NoahKahan | False | You're all drunk in my kitchen, curled in the fetal position 
+ConanGray | RickAstley | False | Too busy playing the victim to be listening to me when I say 
+ConanGray | ConanGray | True | "I wish that you would stay in my memories" 
+ConanGray | LadyGaga | False | In my memories, stay in my memories 
+ConanGray | MichaelJackson | False | Since you came 
+ConanGray | Beyonce | False | I guess I'll let you stay 
+ConanGray | SmashMouth | False | For as long as it takes 
+ConanGray | KhalilGhibran | False | To grab your books and your coat 
+ConanGray | MichaelJackson | False | And that one good cologne 
+ConanGray | TaylorSwift | False | That you bought when we were fighting 
+ConanGray | Beyonce | False | 'Cause it is still on my clothes, everything that I own 
+ConanGray | Beyonce | False | And it makes me feel like dying 
+ConanGray | CharliePuth | False | I was barely just surviving 
+ConanGray | ConanGray | True | I wish that you would stay in my memories 
+ConanGray | CharliePuth | False | But you show up today, just to ruin things 
+ConanGray | LadyGaga | False | I wanna put you in the past 'cause I'm traumatized 
+ConanGray | MichaelJackson | False | But you are not letting me do that, 'cause tonight 
+ConanGray | NoahKahan | False | You're all drunk in my kitchen, curled in the fetal position 
+ConanGray | RickAstley | False | Too busy playing the victim to be listening to me when I say 
+ConanGray | ConanGray | True | "I wish that you would stay in my memories" 
+ConanGray | LadyGaga | False | In my memories, stay in my memories 
+DanReynolds | MichaelJackson | False | Two hearts, one valve 
+DanReynolds | TaylorSwift | False | Pumpin' the blood, we were the flood 
+DanReynolds | MargaretAtwood | False | We were the body and 
+DanReynolds | MichaelJackson | False | Two lives, one life 
+DanReynolds | DominicFike | False | Stickin' it out, lettin' you down 
+DanReynolds | Beyonce | False | Makin' it right 
+DanReynolds | MichaelJackson | False | Seasons, they will change 
+DanReynolds | MichaelJackson | False | Life will make you grow 
+DanReynolds | RickAstley | False | Dreams will make you cry, cry, cry 
+DanReynolds | TheAllAmericanRejects | False | Everything is temporary 
+DanReynolds | BillyJoel | False | Everything will slide 
+DanReynolds | BillyJoel | False | Love will never die, die, die 
+DanReynolds | Beyonce | False | I know that 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | NoahKahan | False | Birds fly in different directions 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | Beyonce | False | I hope to see you again 
+DanReynolds | LadyGaga | False | Sunsets, sunrises 
+DanReynolds | MargaretAtwood | False | Livin' the dream, watchin' the leaves 
+DanReynolds | MargaretAtwood | False | Changin' the seasons 
+DanReynolds | RickAstley | False | Some nights I think of you 
+DanReynolds | Drake | False | Relivin' the past, wishin' it'd last 
+DanReynolds | MargaretAtwood | False | Wishin' and dreamin' 
+DanReynolds | MichaelJackson | False | Seasons, they will change 
+DanReynolds | MichaelJackson | False | Life will make you grow 
+DanReynolds | CatStevens | False | Death can make you hard, hard, hard 
+DanReynolds | TheAllAmericanRejects | False | Everything is temporary 
+DanReynolds | BillyJoel | False | Everything will slide 
+DanReynolds | BillyJoel | False | Love will never die, die, die 
+DanReynolds | Beyonce | False | I know that 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | NoahKahan | False | Birds fly in different directions 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | Beyonce | False | I hope to see you again 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | NoahKahan | False | Birds fly in different directions 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | Coldplay | False | So fly high, so fly high 
+DanReynolds | MacMiller | False | When the moon is lookin' down 
+DanReynolds | TaylorSwift | False | Shinin' light upon your ground 
+DanReynolds | Beyonce | False | I'm flyin' up to let you see 
+DanReynolds | LadyGaga | False | That the shadow cast is me 
+DanReynolds | Beyonce | False | I know that 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | NoahKahan | False | Birds fly in different directions 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | Beyonce | False | I hope to see you again 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | NoahKahan | False | Birds fly in different directions 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | Coldplay | False | So fly high, so fly high 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | Coldplay | False | So fly high, so fly high 
+DanReynolds | wallows | False | Ooh, ooh, ooh, ooh 
+DanReynolds | Coldplay | False | So fly high, so fly high 
+DominicFike | MichaelJackson | False | Three nights at the motel 
+DominicFike | MichaelJackson | False | Under streetlights 
+DominicFike | NikDay | False | In the city of palms 
+DominicFike | Drake | False | Call me what you want, when you want, if you want 
+DominicFike | MichaelJackson | False | And you can call me names if you call me up 
+DominicFike | MichaelJackson | False | Three nights at the motel 
+DominicFike | MichaelJackson | False | Under streetlights 
+DominicFike | NikDay | False | In the city of palms 
+DominicFike | Drake | False | Call me what you want, when you want, if you want 
+DominicFike | MichaelJackson | False | And you can call me names if you call me up 
+DominicFike | NoahKahan | False | Feel like the least of all your problems 
+DominicFike | LadyGaga | False | You can reach me if you wanna stay up tonight 
+DominicFike | TaylorSwift | False | Stay up at night 
+DominicFike | Beyonce | False | Green lights in your body language 
+DominicFike | Beyonce | False | Seems like you could use a little 
+DominicFike | Beyonce | False | Company from me 
+DominicFike | Beyonce | False | But if you got everything 
+DominicFike | TaylorSwift | False | Figured out like you say 
+DominicFike | TheAllAmericanRejects | False | Don't waste a minute 
+DominicFike | Beyonce | False | Don't wait a minute 
+DominicFike | BillyJoel | False | It's only a matter of time 
+DominicFike | MichaelJackson | False | For you-ou, to-oo 
+DominicFike | RickAstley | False | Tell me now 
+DominicFike | Beyonce | False | 'Cause I've been up for 
+DominicFike | Beyonce | False | I've been up for 
+DominicFike | MichaelJackson | False | Three nights at the motel 
+DominicFike | MichaelJackson | False | Under streetlights 
+DominicFike | NikDay | False | In the city of palms 
+DominicFike | Drake | False | Call me what you want, when you want, if you want 
+DominicFike | MichaelJackson | False | And you can call me names if you call me up 
+DominicFike | MichaelJackson | False | Three nights at the motel 
+DominicFike | MichaelJackson | False | Under streetlights 
+DominicFike | NikDay | False | In the city of palms 
+DominicFike | Drake | False | Call me what you want, when you want, if you want 
+DominicFike | MichaelJackson | False | And you can call me names if you call me up 
+DominicFike | NoahKahan | False | I cannot fix each and all your problems 
+DominicFike | LadyGaga | False | I'm no good with names and faces 
+DominicFike | MichaelJackson | False | Just sent me naked pictures 
+DominicFike | StevieNicks | False | From her neck down to the waist 
+DominicFike | KhalilGhibran | False | Stuck in my feelings and vows 
+DominicFike | LadyGaga | False | She stopped returning my calls 
+DominicFike | MichaelJackson | False | Flaws turn into walls and barricades 
+DominicFike | Drake | False | And I'm too *bleep*ed on and over both ways 
+DominicFike | TaylorSwift | False | And now every long day is a bad one 
+DominicFike | MichaelJackson | False | I cannot make you call or make you stay 
+DominicFike | Beyonce | False | Or take you off the pedestal 
+DominicFike | TaylorSwift | False | So I get lost in modern music watching movies 
+DominicFike | MargaretAtwood | False | Talking to the walls in my room 
+DominicFike | TaylorSwift | False | Walking through the halls in my head 
+DominicFike | DominicFike | True | Just tryna make sure it all makes sense 
+DominicFike | MacMiller | False | I ain't made of money 
+DominicFike | Beyonce | False | Maybe someday you could take it from me 
+DominicFike | LandonConrath | False | I'm up too late 
+DominicFike | CharliePuth | False | Thinking 'bout you 
+DominicFike | MichaelJackson | False | In MIA for 
+DominicFike | MichaelJackson | False | Three nights at the motel 
+DominicFike | MichaelJackson | False | Under streetlights 
+DominicFike | NikDay | False | In the city of palms 
+DominicFike | Drake | False | Call me what you want, when you want, if you want 
+DominicFike | MichaelJackson | False | And you can call me names if you call me up 
+DominicFike | MichaelJackson | False | Three nights at the motel 
+DominicFike | MichaelJackson | False | Under streetlights 
+DominicFike | NikDay | False | In the city of palms 
+DominicFike | Drake | False | Call me what you want, when you want, if you want 
+DominicFike | MichaelJackson | False | And you can call me names if you call me up 
+Drake | Queen | False | Yeah-yeah-yeah-yeah, yeah 
+Drake | Coldplay | False | Yeah 
+Drake | LadyGaga | False | Champagne with breakfast while I'm yawning 
+Drake | NoelGallagher | False | You cannot drink all day if you do not start in the morning 
+Drake | Beyonce | False | Lord, forgive me, I cannot take things slowly (slow) 
+Drake | Beyonce | False | I'm gone on them once I get going (gone on them, oh) 
+Drake | MichaelJackson | False | She tryna take it all off for me 
+Drake | MichaelJackson | False | Tryna stay real close to me (close) 
+Drake | Beyonce | False | I gotta catch myself 
+Drake | LandonConrath | False | I cannot play myself 
+Drake | Beyonce | False | I need to take it 
+Drake | CatStevens | False | Easy, easy, easy, easy 
+Drake | CatStevens | False | Easy, easy, easy, easy 
+Drake | SamSmith | False | Railiza, you need a 
+Drake | MargaretAtwood | False | Money and visa 
+Drake | Beyonce | False | And you get what you want, always from me 
+Drake | TaylorSwift | False | I cannot say "No" when you say, "Please" 
+Drake | RickAstley | False | I cannot say "No" 
+Drake | SamSmith | False | Howisha, you need a 
+Drake | Beyonce | False | Baby with me, uh 
+Drake | LadyGaga | False | And I'm takin' my time, just wait, do not leave 
+Drake | TaylorSwift | False | I cannot say "No" when you say, "Please" 
+Drake | RickAstley | False | I cannot say "No" 
+Drake | LadyGaga | False | You wanna drink like Bajan and dance like Trini 
+Drake | Coldplay | False | Yeah 
+Drake | Beyonce | False | You wanna supermodel pose like mi real friend Winnie (ah mi real friend) 
+Drake | Coldplay | False | Yeah 
+Drake | LadyGaga | False | Vacation is done but I'm not finished, no 
+Drake | LadyGaga | False | Champagne with breakfast while I'm yawning 
+Drake | NoelGallagher | False | You cannot drink all day if you do not start in the morning 
+Drake | Beyonce | False | Lord, forgive me, I cannot take things slowly (slow) 
+Drake | TheAllAmericanRejects | False | I'm gone on them once I get going (gone on them, gone on them, gone on them) 
+Drake | MichaelJackson | False | She tryna take it all off for me (close) 
+Drake | MichaelJackson | False | Tryna stay real close to me 
+Drake | Beyonce | False | I gotta catch myself 
+Drake | LandonConrath | False | I cannot play myself 
+Drake | Beyonce | False | I need to take it 
+Drake | CatStevens | False | Easy, easy, easy, easy 
+Drake | CatStevens | False | Easy, easy, easy, easy 
+Drake | SamSmith | False | I stay to myself 
+Drake | Quadeca | False | I'll explain myself 
+Drake | LandonConrath | False | I cannot play myself 
+Drake | TaylorSwift | False | Our first night, holy night 
+Drake | NoelGallagher | False | Five in the morning, yeah-yeah (yeah) 
+Drake | TaylorSwift | False | And it feels like you are mine 
+Drake | MargaretAtwood | False | Signs of the times 
+Drake | TaylorSwift | False | Oh, what a time 
+Drake | Beyonce | False | Playin' it right, playin' it perfect 
+Drake | MichaelJackson | False | Laughin' it off but I know you are hurtin' 
+Drake | MargaretAtwood | False | Signs of the times 
+Drake | TaylorSwift | False | I say all the time 
+Drake | Drake | True | Taking my time just gets harder to find it 
+Drake | CharliePuth | False | But you are playin' it right, you are playin' me perfect 
+Drake | MichaelJackson | False | She tryna take it all off for me 
+Drake | MichaelJackson | False | Tryna stay real close to me 
+Drake | Beyonce | False | I gotta catch myself 
+Drake | LandonConrath | False | I cannot play myself 
+Drake | Beyonce | False | I need to take it 
+Drake | CatStevens | False | Easy, easy, easy, easy 
+Drake | CatStevens | False | Easy, easy, easy, easy 
+Drake | Beyonce | False | I bet I never disrespect you, darlin' 
+Drake | Beyonce | False | I bet you pardon me, darlin' 
+GratefulDead | TaylorSwift | False | Walk in the Sunshine 
+GratefulDead | NoelGallagher | False | Look out cause here comes some free advice. 
+GratefulDead | MargaretAtwood | False | Walk in the sunshine, watch for the bright sun, 
+GratefulDead | solange | False | Be all those things you are able to be. 
+GratefulDead | Beyonce | False | You got to listen to the heavens, you got to try to understand, 
+GratefulDead | MargaretAtwood | False | The grateness of their movement is just as small as it is grand. 
+GratefulDead | TaylorSwift | False | Try not to hurry, it is just not your worry. 
+GratefulDead | TaylorSwift | False | Leave it to those all caught up in time. 
+GratefulDead | Beyonce | False | You got to deep-six your wristwatch, you got to try and understand, 
+GratefulDead | MichaelJackson | False | The time it seems to capture is just the movement of its hands. 
+GratefulDead | MacMiller | False | I ain't preachin', 'cause I do not know 
+GratefulDead | TheAllAmericanRejects | False | How to make fast things move along slow 
+GratefulDead | SmashMouth | False | I cannot stop it, cannot make it go. 
+GratefulDead | SamSmith | False | Just 'cause I say it, that do not mean that it is so, no, no, 
+GratefulDead | MichaelJackson | False | Watch what you hear now, make sure it is clear now, 
+GratefulDead | MichaelJackson | False | Just 'cause it is said that do not mean that it is true. So all we say: 
+GratefulDead | Beyonce | False | You got to make a revolution, you got to help me with my cause. 
+GratefulDead | solange | False | You got to burn down all the buildings, you got to throw out all the laws. 
+GratefulDead | ConanGray | False | I ain't burning, Lord, I'm still only learning 
+GratefulDead | Queen | False | How to become a man of my own. 
+GratefulDead | MichaelJackson | False | Just want to find out what is right and what is wrong. 
+GratefulDead | Beyonce | False | I ain't crazy, all the world keeps on turning, 
+GratefulDead | TaylorSwift | False | I'm still trying to find out what is right and what is wrong. 
+GratefulDead | MacMiller | False | I ain't crazy! 
+GregoryAlanIsakov | LadyGaga | False | weightlessness, no gravity 
+GregoryAlanIsakov | TaylorSwift | False | were we somewhere in-between 
+GregoryAlanIsakov | Beyonce | False | i’m a ghost of you, you’re a ghost of me 
+GregoryAlanIsakov | MargaretAtwood | False | a bird’s-eye view of San Luis 
+GregoryAlanIsakov | Beyonce | False | i’m a ghost of you, you’re a ghost of me 
+GregoryAlanIsakov | MargaretAtwood | False | a bird’s-eye view of San Luis 
+GregoryAlanIsakov | LadyGaga | False | oh, highway boys all sleeping in 
+GregoryAlanIsakov | MargaretAtwood | False | with their dirty mouths and broken strings 
+GregoryAlanIsakov | LadyGaga | False | oh, their eyes are shining like the sea 
+GregoryAlanIsakov | MichaelJackson | False | for you, the queen of San Luis 
+GregoryAlanIsakov | Beyonce | False | i’m a ghost of you, you’re a ghost of me 
+GregoryAlanIsakov | MargaretAtwood | False | a bird’s-eye view of San Luis 
+GregoryAlanIsakov | TaylorSwift | False | cutting through the avenues 
+GregoryAlanIsakov | MichaelJackson | False | i’d always find my way to you 
+GregoryAlanIsakov | MargaretAtwood | False | beside the hook, the hammer lies 
+GregoryAlanIsakov | MargaretAtwood | False | fumbling round in the smoke 
+GregoryAlanIsakov | LandonConrath | False | spending time chasing ghosts 
+GregoryAlanIsakov | solange | False | hold me down, hold me down, child 
+GregoryAlanIsakov | solange | False | hold me down, hold me down, child 
+GregoryAlanIsakov | MichaelJackson | False | California called you queen 
+GregoryAlanIsakov | KhalilGhibran | False | with your golden hair and magazine 
+GregoryAlanIsakov | TaylorSwift | False | were you somewhere in-between 
+GregoryAlanIsakov | Beyonce | False | fast asleep, a flying dream 
+GregoryAlanIsakov | Beyonce | False | i’m a ghost of you, you’re a ghost of me 
+GregoryAlanIsakov | MargaretAtwood | False | a bird’s-eye view of San Luis 
+HarryStyles | LadyGaga | False | "Cherry" 
+HarryStyles | LadyGaga | False | Coucou 
+HarryStyles | LadyGaga | False | Don't you call him "baby" 
+HarryStyles | NoelGallagher | False | We're not talkin' lately 
+HarryStyles | LadyGaga | False |  
+HarryStyles | Olivia_Rodrigo | False | I, I confess 
+HarryStyles | LadyGaga | False |  
+HarryStyles | Beyonce | False | I'm selfish so I'm hating it 
+HarryStyles | Beyonce | False | I noticed that 
+HarryStyles | TaylorSwift | False | There's a piece of you in how I dress 
+HarryStyles | Cavetown | False | Take it as a compliment 
+HarryStyles | LadyGaga | False | Don't you call him "baby" 
+HarryStyles | NoelGallagher | False | We're not talkin' lately 
+HarryStyles | CharliePuth | False | Don't you call him what you used to call me 
+HarryStyles | CharliePuth | False | I, I just miss 
+HarryStyles | Drake | False | I just miss your accent and your friends 
+HarryStyles | CharliePuth | False | Did you know I still talk to them? 
+HarryStyles | LadyGaga | False | Does he take you walking 'round his parents' gallery? 
+HarryStyles | LadyGaga | False | Don't you call him "baby" 
+HarryStyles | NoelGallagher | False | We're not talkin' lately 
+HarryStyles | CharliePuth | False | Don't you call him what you used to call me 
+HarryStyles | LadyGaga | False | Don't you call him "baby" (Coucou) 
+HarryStyles | NoelGallagher | False | We're not talkin' lately 
+HarryStyles | CharliePuth | False | Don't you call him what you used to call me (Coucou) 
+HarryStyles | TaylorSwift | False | Coucou! Tu dors? Oh, j'suis désolée... 
+HarryStyles | LadyGaga | False | Bah non... Non, c'est pas important... 
+HarryStyles | LadyGaga | False | Ouais, on a été à la plage, et maintenant on— 
+HarryStyles | LadyGaga | False | Parfait! Allez! 
+JohnLennon | MacMiller | False | Got a good reason 
+JohnLennon | TaylorSwift | False | For taking the easy way out 
+JohnLennon | MacMiller | False | Got a good reason 
+JohnLennon | BillyJoel | False | For taking the easy way out, now 
+JohnLennon | BillyJoel | False | She was a day tripper 
+JohnLennon | Queen | False | One-way ticket, yeah 
+JohnLennon | CharliePuth | False | It took me so long to find out 
+JohnLennon | TaylorSwift | False | And I found out 
+JohnLennon | Queen | False | She's a big teaser 
+JohnLennon | MichaelJackson | False | She took me half the way there 
+JohnLennon | Queen | False | She's a big teaser 
+JohnLennon | CharliePuth | False | She took me half the way there, now 
+JohnLennon | BillyJoel | False | She was a day tripper 
+JohnLennon | MichaelJackson | False | A one-way ticket, yeah 
+JohnLennon | CharliePuth | False | It took me so long to find out 
+JohnLennon | TaylorSwift | False | And I found out 
+JohnLennon | RickAstley | False | I tried to please her 
+JohnLennon | BillyJoel | False | She only played one-night stands 
+JohnLennon | RickAstley | False | I tried to please her 
+JohnLennon | CharliePuth | False | She only played one-night stands, now 
+JohnLennon | BillyJoel | False | She was a day tripper 
+JohnLennon | SamSmith | False | Sunday driver, yeah 
+JohnLennon | CharliePuth | False | It took me so long to find out 
+JohnLennon | TaylorSwift | False | And I found out 
+JohnLennon | Queen | False | Day tripper, yeah 
+JohnLennon | Queen | False | Day tripper, yeah 
+JohnLennon | RickAstley | False | Day tripper 
+JohnLennon | Queen | False | Day tripper, yeah 
+JohnLennon | RickAstley | False | Day tripper 
+joji | RickAstley | False | "Before The Day Is Over" 
+joji | NoelGallagher | False | I do not know what you wanna hear 
+joji | solange | False | Things changing course, smiles fade to grin 
+joji | SmashMouth | False | Now the moment's gone, just as I feared 
+joji | TaylorSwift | False | And I was hoping, and I was hoping this time 
+joji | RickAstley | False | No longer here, we were feeling bliss 
+joji | Drake | False | Don't hold your tongue, there is no time for tricks 
+joji | CharliePuth | False | You've been closing up, I expected this 
+joji | TaylorSwift | False | But I was hoping that you'd stay open this time 
+joji | Beyonce | False | I know it will not be long 
+joji | MichaelJackson | False | I know you are almost gone 
+joji | CharliePuth | False | Hold on, let me in before the day is over 
+joji | CharliePuth | False | Just let me in before the day is over 
+joji | NoahKahan | False | Say something soon, we might lose it all 
+joji | RickAstley | False | Something we can use to break our fall 
+joji | Drake | False | There's nothing left to do when we start to stall 
+joji | TaylorSwift | False | And I was hoping that we could hold it this time 
+joji | Beyonce | False | I know it will not be long 
+joji | MichaelJackson | False | I know you are almost gone 
+joji | CharliePuth | False | Hold on, let me in before the day is over 
+joji | CharliePuth | False | Just let me in before the day is over 
+joji | JohnLennon | False | Let me in, let me in 
+joji | CharliePuth | False | Just let me in before the day is over 
+joji | Beyonce | False | I cannot take another day 
+joji | SmashMouth | False | I could go insane 
+joji | CatStevens | False | There's only so much I can take 
+joji | LadyGaga | False | I cannot live this way 
+joji | Beyonce | False | I cannot take another day 
+joji | SmashMouth | False | I could go insane 
+joji | CatStevens | False | There's only so much I can take 
+joji | LadyGaga | False | I cannot live this way 
+joji | RickAstley | False | let me in, let me in 
+joji | CharliePuth | False | (I know you are almost gone) just let me in before the day is over 
+joji | JohnLennon | False | Let me in, let me in 
+joji | CharliePuth | False | Just let me in before the day is over 
+KhalilGhibran | MayaAngelou | False | "Song Of The Rain VII" 
+KhalilGhibran | NikDay | False | I am dotted silver threads dropped from heaven 
+KhalilGhibran | Beyonce | False | By the gods. Nature then takes me, to adorn 
+KhalilGhibran | MichaelJackson | False | Her fields and valleys. 
+KhalilGhibran | Beyonce | False | I am beautiful pearls, plucked from the 
+KhalilGhibran | MargaretAtwood | False | Crown of Ishtar by the daughter of Dawn 
+KhalilGhibran | KhalilGhibran | True | To embellish the gardens. 
+KhalilGhibran | RickAstley | False | When I cry the hills laugh; 
+KhalilGhibran | Beyonce | False | When I humble myself the flowers rejoice; 
+KhalilGhibran | Drake | False | When I bow, all things are elated. 
+KhalilGhibran | KhalilGhibran | True | The field and the cloud are lovers 
+KhalilGhibran | NoahKahan | False | And between them I am a messenger of mercy. 
+KhalilGhibran | TaylorSwift | False | I quench the thirst of one; 
+KhalilGhibran | KhalilGhibran | True | I cure the ailment of the other. 
+KhalilGhibran | NikDay | False | The voice of thunder declares my arrival; 
+KhalilGhibran | MichaelJackson | False | The rainbow announces my departure. 
+KhalilGhibran | LadyGaga | False | I am like earthly life, which begins at 
+KhalilGhibran | KhalilGhibran | True | The feet of the mad elements and ends 
+KhalilGhibran | KhalilGhibran | True | Under the upraised wings of death. 
+KhalilGhibran | KhalilGhibran | True | I emerge from the heard of the sea 
+KhalilGhibran | TaylorSwift | False | Soar with the breeze. When I see a field in 
+KhalilGhibran | KhalilGhibran | True | Need, I descend and embrace the flowers and 
+KhalilGhibran | MargaretAtwood | False | The trees in a million little ways. 
+KhalilGhibran | LadyGaga | False | I touch gently at the windows with my 
+KhalilGhibran | LadyGaga | False | Soft fingers, and my announcement is a 
+KhalilGhibran | BillyJoel | False | Welcome song. All can hear, but only 
+KhalilGhibran | MichaelJackson | False | The sensitive can understand. 
+KhalilGhibran | MayaAngelou | False | The heat in the air gives birth to me, 
+KhalilGhibran | MichaelJackson | False | But in turn I kill it, 
+KhalilGhibran | BillyJoel | False | As woman overcomes man with 
+KhalilGhibran | StevieNicks | False | The strength she takes from him. 
+KhalilGhibran | KhalilGhibran | True | I am the sigh of the sea; 
+KhalilGhibran | MargaretAtwood | False | The laughter of the field; 
+KhalilGhibran | MichaelJackson | False | The tears of heaven. 
+KhalilGhibran | LadyGaga | False | So with love  
+KhalilGhibran | KhalilGhibran | True | Sighs from the deep sea of affection; 
+KhalilGhibran | MargaretAtwood | False | Laughter from the colorful field of the spirit; 
+KhalilGhibran | MargaretAtwood | False | Tears from the endless heaven of memories. 
+LadyGaga | SamSmith | False | I did not ask for a free ride 
+LadyGaga | Drake | False | I only asked you to show me a real good time 
+LadyGaga | Beyonce | False | I never asked for the rainfall 
+LadyGaga | SamSmith | False | At least I showed up, you showed me nothing at all 
+LadyGaga | TaylorSwift | False | It's coming down on me 
+LadyGaga | StevieNicks | False | Water like misery 
+LadyGaga | TaylorSwift | False | It's coming down on me 
+LadyGaga | LadyGaga | True | I'm ready, rain on me 
+LadyGaga | ConanGray | False | I'd rather be dry, but at least I'm alive 
+LadyGaga | Beyonce | False | Rain on me, rain, rain 
+LadyGaga | Beyonce | False | Rain on me, rain, rain 
+LadyGaga | ConanGray | False | I'd rather be dry, but at least I'm alive 
+LadyGaga | Beyonce | False | Rain on me, rain, rain 
+LadyGaga | LadyGaga | True | Rain on me 
+LadyGaga | LadyGaga | True | Rain on me 
+LadyGaga | LadyGaga | True | Mmh, oh yeah, baby 
+LadyGaga | LadyGaga | True | Rain on me 
+LadyGaga | MichaelJackson | False | Livin' in a world where no one's innocent 
+LadyGaga | NoahKahan | False | Oh, but at least we try, mmh 
+LadyGaga | MacMiller | False | Gotta live my truth, not keep it bottled in 
+LadyGaga | SamSmith | False | So I do not lose my mind, baby, yeah 
+LadyGaga | Beyonce | False | I can feel it on my skin (It's coming down on me) 
+LadyGaga | LadyGaga | True | Teardrops on my face (Water like misery) 
+LadyGaga | CharliePuth | False | Let it wash away my sins (It's coming down on me) 
+LadyGaga | MacMiller | False | Let it wash away, yeah 
+LadyGaga | ConanGray | False | I'd rather be dry, but at least I'm alive 
+LadyGaga | Beyonce | False | Rain on me, rain, rain 
+LadyGaga | Beyonce | False | Rain on me, rain, rain 
+LadyGaga | ConanGray | False | I'd rather be dry, but at least I'm alive 
+LadyGaga | Beyonce | False | Rain on me, rain, rain 
+LadyGaga | LadyGaga | True | Rain (Rain) on (On) me 
+LadyGaga | LadyGaga | True | Rain on me 
+LadyGaga | LadyGaga | True | Rain on me 
+LadyGaga | solange | False | Oh yeah, yeah 
+LadyGaga | Queen | False | Rain on me, ooh yeah 
+LadyGaga | LadyGaga | True | Rain on me 
+LadyGaga | Beyonce | False | Rain on me, ooh 
+LadyGaga | JohnLennon | False | Hands up to the sky 
+LadyGaga | Quadeca | False | I'll be your galaxy 
+LadyGaga | MichaelJackson | False | I'm about to fly 
+LadyGaga | Beyonce | False | Rain on me, tsunami 
+LadyGaga | JohnLennon | False | Hands up to the sky 
+LadyGaga | Quadeca | False | I'll be your galaxy 
+LadyGaga | MichaelJackson | False | I'm about to fly 
+LadyGaga | LadyGaga | True | Rain on me (Rain on me) 
+LadyGaga | ConanGray | False | I'd rather be dry, but at least I'm alive (Rain on me) 
+LadyGaga | Beyonce | False | Rain on me, rain, rain 
+LadyGaga | Beyonce | False | Rain on me, rain, rain (Rain on me) 
+LadyGaga | ConanGray | False | I'd rather be dry, but at least I'm alive (At least I'm alive) 
+LadyGaga | Beyonce | False | Rain on me, rain, rain (Rain on me) 
+LadyGaga | LadyGaga | True | Rain on me (Rain on me) 
+LadyGaga | StevieNicks | False | I hear the thunder coming down 
+LadyGaga | LadyGaga | True | Won't you rain on me? 
+LadyGaga | LadyGaga | True | Eh, eh, yeah (Rain on, woo) 
+LadyGaga | StevieNicks | False | I hear the thunder coming down 
+LadyGaga | LadyGaga | True | Won't you rain on me? 
+LadyGaga | LadyGaga | True | Eh, eh, yeah 
+LadyGaga | LadyGaga | True | Rain on me 
+LandonConrath | LandonConrath | True | Met you last week 
+LandonConrath | Drake | False | But yeah you talk too much 
+LandonConrath | TaylorSwift | False | In the backseat 
+LandonConrath | CharliePuth | False | Cause you know that I know 
+LandonConrath | MichaelJackson | False | That you are never gonna have enough 
+LandonConrath | Queen | False | Whatcha want 
+LandonConrath | SamSmith | False | Whatcha need 
+LandonConrath | Cavetown | False | A little bit wrong but it tastes so sweet 
+LandonConrath | MargaretAtwood | False | Nonchalant, in the breeze 
+LandonConrath | NoelGallagher | False | We're writing some song that we will not repeat 
+LandonConrath | LadyGaga | False | I'm on my way 
+LandonConrath | LandonConrath | True | So just a heads up 
+LandonConrath | Drake | False | We're thinking too much 
+LandonConrath | LadyGaga | False | 'Bout stupid mistakes 
+LandonConrath | TaylorSwift | False | So do not you look back 
+LandonConrath | NoelGallagher | False | We're moving too fast 
+LandonConrath | RickAstley | False | Tell me what you want 
+LandonConrath | RickAstley | False | Tell me what you need 
+LandonConrath | RickAstley | False | Tell me what you want 
+LandonConrath | RickAstley | False | Tell me what you need 
+LandonConrath | SmashMouth | False | Should we take time? 
+LandonConrath | LandonConrath | True | Well yeah I miss your touch 
+LandonConrath | NikDay | False | Through the grapevine 
+LandonConrath | LadyGaga | False | Flower beds in my head 
+LandonConrath | Drake | False | Cause you know you are always on my mind 
+LandonConrath | Queen | False | Whatcha want 
+LandonConrath | SamSmith | False | Whatcha need 
+LandonConrath | Cavetown | False | A little bit wrong but it tastes so sweet 
+LandonConrath | MargaretAtwood | False | Nonchalant, in the breeze 
+LandonConrath | NoelGallagher | False | We're writing some song that we will not repeat 
+LandonConrath | LadyGaga | False | I'm on my way 
+LandonConrath | LandonConrath | True | So just a heads up 
+LandonConrath | Drake | False | We're thinking too much 
+LandonConrath | LadyGaga | False | 'Bout stupid mistakes 
+LandonConrath | TaylorSwift | False | So do not you look back 
+LandonConrath | NoelGallagher | False | We're moving too fast 
+LandonConrath | RickAstley | False | Tell me what you want 
+LandonConrath | RickAstley | False | Tell me what you need 
+LandonConrath | RickAstley | False | Tell me what you want 
+LandonConrath | RickAstley | False | Tell me what you need 
+LandonConrath | LadyGaga | False | Little paper cuts and my face is flushed 
+LandonConrath | RickAstley | False | Can we loosen up? 
+LandonConrath | LucyDacus | False | Spilling coffee cups on a crowded bus 
+LandonConrath | TheAllAmericanRejects | False | Is it just too much? 
+LandonConrath | LadyGaga | False | Little paper cuts and my face is flushed 
+LandonConrath | RickAstley | False | Can we loosen up? 
+LandonConrath | LucyDacus | False | Spilling coffee cups on a crowded bus 
+LandonConrath | TheAllAmericanRejects | False | Is it just too much? 
+LandonConrath | LadyGaga | False | I'm on my way 
+LandonConrath | LandonConrath | True | So just a heads up 
+LandonConrath | Drake | False | We're thinking too much 
+LandonConrath | LadyGaga | False | 'Bout stupid mistakes 
+LandonConrath | TaylorSwift | False | So do not you look back 
+LandonConrath | NoelGallagher | False | We're moving too fast 
+LandonConrath | RickAstley | False | Tell me what you want 
+LandonConrath | RickAstley | False | Tell me what you need 
+LandonConrath | RickAstley | False | Tell me what you want 
+LandonConrath | RickAstley | False | Tell me what you need 
+LucyDacus | JohnLennon | False | We're In Love 
+LucyDacus | DanReynolds | False | You could absolutely break my heart 
+LucyDacus | CharliePuth | False | That's how I know that we are in love 
+LucyDacus | SamSmith | False | I do not need the symbol of a scar 
+LucyDacus | TaylorSwift | False | So put down the knife 
+LucyDacus | NoelGallagher | False | We're not swapping blood 
+LucyDacus | MichaelJackson | False | Isn't it enough 
+LucyDacus | NoahKahan | False | That we stripped down to our skin? 
+LucyDacus | MargaretAtwood | False | Cold and porcelain 
+LucyDacus | CharliePuth | False | Like bathers in a painting 
+LucyDacus | Beyonce | False | And I told you of your past lives 
+LucyDacus | RickAstley | False | Every man you have ever been 
+LucyDacus | MichaelJackson | False | It wasn't flattering 
+LucyDacus | CharliePuth | False | But you listened like it mattered 
+LucyDacus | RickAstley | False | I feel crazy in ways I never say 
+LucyDacus | LadyGaga | False | Will you still love me if it turns out I'm insane? 
+LucyDacus | NoelGallagher | False | I know what you will say 
+LucyDacus | NoelGallagher | False | But it helps to hear you say it, anyway 
+LucyDacus | NoelGallagher | False | Some October, in the future 
+LucyDacus | Cavetown | False | I'll run out of trash TV 
+LucyDacus | TaylorSwift | False | And I'll be feeling lonely 
+LucyDacus | TaylorSwift | False | So I'll walk to karaoke 
+LucyDacus | BillyJoel | False | Sing the song you wrote about me 
+LucyDacus | DanReynolds | False | Never once checking the words 
+LucyDacus | Beyonce | False | I hope that no one sings along 
+LucyDacus | Olivia_Rodrigo | False | I hope that I am not a regular 
+LucyDacus | LadyGaga | False | Damn, that makes me sad 
+LucyDacus | Beyonce | False | It does not have to be like that 
+LucyDacus | ConanGray | False | If you rewrite your life, may I still play a part? 
+LucyDacus | TaylorSwift | False | In the next one, will you find me? 
+LucyDacus | LadyGaga | False | I'll be the boy with the pink carnation pinned to my lapel 
+LucyDacus | TaylorSwift | False | Who looks like hell and asks for help 
+LucyDacus | CatStevens | False | And if you do, I'll know it is you 
+LucyDacus | TheAllAmericanRejects | False | I cannot imagine you without 
+LucyDacus | KhalilGhibran | False | The same smile in your eyes 
+LucyDacus | MichaelJackson | False | There is something about you 
+LucyDacus | NoahKahan | False | That I will always recognize 
+LucyDacus | TaylorSwift | False | And if you do not remember 
+LucyDacus | Beyonce | False | I will try to remind you 
+LucyDacus | SmashMouth | False | Of the hummingbirds 
+LucyDacus | solange | False | You know the ones (I know the ones) 
+LucyDacus | MichaelJackson | False | And the baby scorpion 
+LucyDacus | Beyonce | False | And the winter lunar halo 
+LucyDacus | TaylorSwift | False | And the walk we took in the redwoods 
+LucyDacus | Beyonce | False | I could go on and on and on and I will 
+LucyDacus | LadyGaga | False | Go on and on and on until 
+LucyDacus | TheAllAmericanRejects | False | It all comes back 
+MacMiller | TheAllAmericanRejects | False | Hands 
+MacMiller | Drake | False | yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | TaylorSwift | False | Yeah, why do not you wake up from your bad dreams 
+MacMiller | TaylorSwift | False | When's the last time you took a little time for yourself? 
+MacMiller | MacMiller | True | There's no reason to be so down 
+MacMiller | Beyonce | False | Rather fly around like there is no ground 
+MacMiller | Beyonce | False | And I, I bet you wish you had these 
+MacMiller | Drake | False | 'Cause carryin' this weight'll break your glass knees, yeah 
+MacMiller | LadyGaga | False | Don't need no chauffeur, *bleep* the backseat 
+MacMiller | Beyonce | False | No, I stay behind the wheel and never half speed 
+MacMiller | LadyGaga | False | Get the *bleep* out of my car, this ain't a taxi 
+MacMiller | SamSmith | False | They love to see me lonely, hate to see me happy 
+MacMiller | LadyGaga | False | Call me what you want, she call me daddy 
+MacMiller | Drake | False | Got a knack for getting nasty everyday, we keep a tally, yeah 
+MacMiller | CatStevens | False | Oh, it is true, I want it badly 
+MacMiller | Beyonce | False | Hit the zoom, I be moving like a athlete 
+MacMiller | Beyonce | False | (Now concentrate) no reason to be that upset 
+MacMiller | ConanGray | False | I'm busy tripping 'bout some *bleep* that still ain't even happen yet 
+MacMiller | Quadeca | False | I keep it honest as honesty gets 
+MacMiller | MacMiller | True | Don't know why I'm always talking if I'm not making sense 
+MacMiller | Beyonce | False | I spent my life living with a lot of regrets 
+MacMiller | Beyonce | False | You throw me off my high horse, I'll probably fall to my death 
+MacMiller | Beyonce | False | it is obvious you not on your best 
+MacMiller | SmashMouth | False | I might just pull your card if it is on top of the deck 
+MacMiller | Beyonce | False | Gimme, gimme what I need and then I'm onto the next 
+MacMiller | CharliePuth | False | That's what we calling cause and effect 
+MacMiller | TaylorSwift | False | Yeah, why do not you wake up from your bad dreams 
+MacMiller | TaylorSwift | False | When's the last time you took a little time for yourself? 
+MacMiller | MacMiller | True | There's no reason to be so down 
+MacMiller | Beyonce | False | Rather fly around like there is no ground 
+MacMiller | Beyonce | False | And I, I bet you with you had these 
+MacMiller | Drake | False | 'Cause carrying this wait'll break your glass knees, yeah 
+MacMiller | LadyGaga | False | Don't need no chauffeur, *bleep* the backseat 
+MacMiller | Beyonce | False | No, I stay behind the wheel and never half speed 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MacMiller | Drake | False | Yeah, yeah, yeah, yeah, yeah, yeah 
+MargaretAtwood | MayaAngelou | False | We have been underground too long, 
+MargaretAtwood | MayaAngelou | False | we have done our work, 
+MargaretAtwood | MichaelJackson | False | we are many and one, 
+MargaretAtwood | TaylorSwift | False | we remember when we were human 
+MargaretAtwood | MayaAngelou | False | We have lived among roots and stones, 
+MargaretAtwood | NoahKahan | False | we have sung but no one has listened, 
+MargaretAtwood | TaylorSwift | False | we come into the open air 
+MargaretAtwood | LucyDacus | False | at night only to love 
+MargaretAtwood | MargaretAtwood | True | which disgusts the soles of boots, 
+MargaretAtwood | MargaretAtwood | True | their leather strict religion. 
+MargaretAtwood | Beyonce | False | We know what a boot looks like 
+MargaretAtwood | TaylorSwift | False | when seen from underneath, 
+MargaretAtwood | TaylorSwift | False | we know the philosophy of boots, 
+MargaretAtwood | MargaretAtwood | True | their metaphysic of kicks and ladders. 
+MargaretAtwood | NoahKahan | False | We are afraid of boots 
+MargaretAtwood | KhalilGhibran | False | but contemptuous of the foot that needs them. 
+MargaretAtwood | NoahKahan | False | Soon we will invade like weeds, 
+MargaretAtwood | ConanGray | False | everywhere but slowly; 
+MargaretAtwood | NoahKahan | False | the captive plants will rebel 
+MargaretAtwood | LadyGaga | False | with us, fences will topple, 
+MargaretAtwood | MargaretAtwood | True | brick walls ripple and fall, 
+MargaretAtwood | Beyonce | False | there will be no more boots. 
+MargaretAtwood | NoahKahan | False | Meanwhile we eat dirt 
+MargaretAtwood | TaylorSwift | False | and sleep; we are waiting 
+MargaretAtwood | MargaretAtwood | True | under your feet. 
+MargaretAtwood | RickAstley | False | When we say Attack 
+MargaretAtwood | Quadeca | False | you will hear nothing 
+MargaretAtwood | SamSmith | False | at first. 
+MaryOliver | SamSmith | False | Every day 
+MaryOliver | LadyGaga | False | I see or hear 
+MaryOliver | Coldplay | False | something 
+MaryOliver | ConanGray | False | that more or less 
+MaryOliver | MichaelJackson | False | kills me 
+MaryOliver | LadyGaga | False | with delight, 
+MaryOliver | CharliePuth | False | that leaves me 
+MaryOliver | Beyonce | False | like a needle 
+MaryOliver | MargaretAtwood | False | in the haystack 
+MaryOliver | KhalilGhibran | False | of light. 
+MaryOliver | MichaelJackson | False | It was what I was born for  
+MaryOliver | DanReynolds | False | to look, to listen, 
+MaryOliver | SamSmith | False | to lose myself 
+MaryOliver | DanReynolds | False | inside this soft world  
+MaryOliver | Beyonce | False | to instruct myself 
+MaryOliver | ConanGray | False | over and over 
+MaryOliver | TaylorSwift | False | in joy, 
+MaryOliver | MargaretAtwood | False | and acclamation. 
+MaryOliver | CharliePuth | False | Nor am I talking 
+MaryOliver | MichaelJackson | False | about the exceptional, 
+MaryOliver | MargaretAtwood | False | the fearful, the dreadful, 
+MaryOliver | MaryOliver | True | the very extravagant  
+MaryOliver | MargaretAtwood | False | but of the ordinary, 
+MaryOliver | TaylorSwift | False | the common, the very drab, 
+MaryOliver | MargaretAtwood | False | the daily presentations. 
+MaryOliver | CatStevens | False | Oh, good scholar, 
+MaryOliver | RickAstley | False | I say to myself, 
+MaryOliver | Beyonce | False | how can you help 
+MaryOliver | MargaretAtwood | False | but grow wise 
+MaryOliver | MargaretAtwood | False | with such teachings 
+MaryOliver | LadyGaga | False | as these  
+MaryOliver | NikDay | False | the untrimmable light 
+MaryOliver | HarryStyles | False | of the world, 
+MaryOliver | MargaretAtwood | False | the ocean's shine, 
+MaryOliver | DanReynolds | False | the prayers that are made 
+MaryOliver | TaylorSwift | False | out of grass? 
+MayaAngelou | KhalilGhibran | False | "A Conceit" 
+MayaAngelou | MichaelJackson | False | Give me your hand 
+MayaAngelou | MichaelJackson | False | Make room for me 
+MayaAngelou | MichaelJackson | False | to lead and follow 
+MayaAngelou | Beyonce | False | you 
+MayaAngelou | MargaretAtwood | False | beyond this rage of poetry. 
+MayaAngelou | Beyonce | False | Let others have 
+MayaAngelou | KhalilGhibran | False | the privacy of 
+MayaAngelou | Quadeca | False | touching words 
+MayaAngelou | KhalilGhibran | False | and love of loss 
+MayaAngelou | KhalilGhibran | False | of love. 
+MayaAngelou | MichaelJackson | False | For me 
+MayaAngelou | MichaelJackson | False | Give me your hand. 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | Beyonce | False | Touch me and I feel on fire 
+MichaelJackson | MichaelJackson | True | Ain't nothin' like a love desire (ooh) 
+MichaelJackson | SamSmith | False | I'm melting (I'm melting) 
+MichaelJackson | Drake | False | Like hot candle wax 
+MichaelJackson | MichaelJackson | True | Sensation (oh sensation) 
+MichaelJackson | NoahKahan | False | Lovely where we are at (ooh) 
+MichaelJackson | Beyonce | False | So let love take us through the hours 
+MichaelJackson | Beyonce | False | I will not be complainin' (ooh) 
+MichaelJackson | RickAstley | False | 'Cause this is love power (ooh) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | solange | False | Heartbreak enemy despise 
+MichaelJackson | MichaelJackson | True | Eternal (oh, eternal) 
+MichaelJackson | JohnLennon | False | Love shines in my eyes 
+MichaelJackson | Beyonce | False | So let love take us through the hours 
+MichaelJackson | Beyonce | False | I will not be complainin' 
+MichaelJackson | LadyGaga | False | 'Cause your love is alright, alright 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop (don't stop, babe) 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough (oh, my baby) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | TaylorSwift | False | Lovely is the feeling now 
+MichaelJackson | Beyonce | False | I will not be complaining 
+MichaelJackson | RickAstley | False | The force is love power 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop (don't stop, darlin') 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | CharliePuth | False | Keep on, with the force, do not stop (go crazy, baby) 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | SmashMouth | False | Keep on, with the force, do not stop (keep on, now) 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | SmashMouth | False | Keep on, with the force, do not stop (keep on, darlin') 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop (love power, yeah) 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | SmashMouth | False | Keep on, with the force, do not stop (keep on, darlin') 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop (don't, no, no) 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough (keep up the power, yeah, ooh) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough ('til you get enough, now) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough (ooh) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop (yeah) 
+MichaelJackson | MichaelJackson | True | Don't stop 'til you get enough (oh, no) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop (yeah) 
+MichaelJackson | SmashMouth | False | Don't stop 'til you get enough (keep on, baby) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough (oh, 'til you get enough) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | SmashMouth | False | Keep on, with the force, do not stop (keep on, darlin') 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | MichaelJackson | True | Keep on, with the force, do not stop (oh, no) 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+MichaelJackson | LadyGaga | False | Don't stop 'til you get enough 
+MichaelJackson | TaylorSwift | False | "Don't Stop 'Til You Get Enough" 
+MichaelJackson | TaylorSwift | False | You know, I was 
+MichaelJackson | TaylorSwift | False | I was wondering, you know 
+MichaelJackson | Beyonce | False | If you could keep on 
+MichaelJackson | NoelGallagher | False | Because the force 
+MichaelJackson | CatStevens | False | It's got a lot of power 
+MichaelJackson | MichaelJackson | True | And it make me feel like, ah 
+MichaelJackson | MichaelJackson | True | It make me feel like, ooh 
+MichaelJackson | HarryStyles | False | Lovely is the feelin' now 
+MichaelJackson | Beyonce | False | Fever, temperatures risin' now 
+MichaelJackson | MichaelJackson | True | Power (oh power) is the force, the vow 
+MichaelJackson | MacMiller | False | That makes it happen, it asks no questions why (ooh) 
+MichaelJackson | wallows | False | So get closer (closer now) 
+MichaelJackson | Beyonce | False | To my body now 
+MichaelJackson | LadyGaga | False | Just love me 
+MichaelJackson | TaylorSwift | False | 'Til you do not know how (ooh) 
+MichaelJackson | LadyGaga | False | Keep on, with the force, do not stop 
+NikDay | TaylorSwift | False | I was frozen, 
+NikDay | TaylorSwift | False | Didn’t know which way I was going, 
+NikDay | TaylorSwift | False | Standing at the door never knowing 
+NikDay | LucyDacus | False | What would happen at the other side. 
+NikDay | TaylorSwift | False | I was sinking, 
+NikDay | SmashMouth | False | Tryin’ to turn back time, hesitating. 
+NikDay | NoahKahan | False | I got tired of silently fading, 
+NikDay | Beyonce | False | So I turned to the light. 
+NikDay | NikDay | True | I choose You. 
+NikDay | MichaelJackson | False | You are my answer, 
+NikDay | NikDay | True | And I choose You. 
+NikDay | NikDay | True | I’m Yours forever. 
+NikDay | NikDay | True | You’re the peace in the storm. 
+NikDay | NikDay | True | You’re the fire in the cold. 
+NikDay | NikDay | True | You’re the wind that carries me through. 
+NikDay | NikDay | True | And I choose You. 
+NikDay | TaylorSwift | False | I was shaking, 
+NikDay | NikDay | True | But I faced my fears, and I’m changing. 
+NikDay | NikDay | True | And I’m on my way. Walls are breaking, 
+NikDay | TaylorSwift | False | And hope is burning bright. 
+NikDay | SamSmith | False | No more sitting 
+NikDay | MichaelJackson | False | And wishing or silent resisting, 
+NikDay | NikDay | True | I’m giving in to Your love, 
+NikDay | TaylorSwift | False | And I’ve traveled to places that never existed 
+NikDay | StevieNicks | False | Before I said You’re the one. 
+NikDay | TheAllAmericanRejects | False | And I choose you. 
+NikDay | MichaelJackson | False | You are my answer, 
+NikDay | NikDay | True | And I choose You. 
+NikDay | NikDay | True | I’m Yours forever. 
+NikDay | NikDay | True | You’re the peace in the storm. 
+NikDay | NikDay | True | You’re the fire in the cold. 
+NikDay | NikDay | True | You’re the wind that carries me through. 
+NikDay | NikDay | True | And I choose You. 
+NikDay | NikDay | True | I choose You. 
+NikDay | MichaelJackson | False | You are my answer, 
+NikDay | NikDay | True | And I choose You. 
+NikDay | NikDay | True | I’m Yours forever. 
+NikDay | NikDay | True | You’re the peace in the storm. 
+NikDay | NikDay | True | You’re the fire in the cold. 
+NikDay | NikDay | True | You’re the wind that carries me through. 
+NikDay | NikDay | True | And I choose You. 
+NoahKahan | LandonConrath | False | Taking it slowly 
+NoahKahan | MichaelJackson | False | I'm afraid to be lonely 
+NoahKahan | MichaelJackson | False | Nobody told me 
+NoahKahan | Quadeca | False | It's harder than I thought to tell the truth 
+NoahKahan | TaylorSwift | False | It's gonna leave you in pieces 
+NoahKahan | TaylorSwift | False | All alone with your demons 
+NoahKahan | RickAstley | False | And I know that we need this 
+NoahKahan | StevieNicks | False | But I've been too afraid to follow through 
+NoahKahan | LadyGaga | False | Hold me close and I will not leave 
+NoahKahan | SamSmith | False | 'Cause it hurts when you hurt somebody 
+NoahKahan | Quadeca | False | So much to say, but I do not speak 
+NoahKahan | RickAstley | False | And I hate that I let you stop me 
+NoahKahan | SamSmith | False | 'Cause it hurts when you hurt somebody 
+NoahKahan | NoelGallagher | False | Don't know where the time went 
+NoahKahan | MichaelJackson | False | Stuck in the wrong mindset 
+NoahKahan | TaylorSwift | False | And I let the rules bend 
+NoahKahan | TheAllAmericanRejects | False | When I know that all along, they are made to break, eh 
+NoahKahan | MichaelJackson | False | You got me searching for reasons 
+NoahKahan | RickAstley | False | To keep me from leaving 
+NoahKahan | TaylorSwift | False | And then I have trouble breathing 
+NoahKahan | Quadeca | False | I give myself another chance to stay, eh 
+NoahKahan | LadyGaga | False | Hold me close and I will not leave 
+NoahKahan | SamSmith | False | 'Cause it hurts when you hurt somebody 
+NoahKahan | Quadeca | False | So much to say, but I do not speak 
+NoahKahan | RickAstley | False | And I hate that I let you stop me 
+NoahKahan | SamSmith | False | 'Cause it hurts when you hurt somebody 
+NoahKahan | SamSmith | False | One day, before you know it, you will see 
+NoahKahan | NikDay | False | All of the pain and all the irony 
+NoahKahan | MichaelJackson | False | You'll feel the stinging and you will think of me 
+NoahKahan | Beyonce | False | 'Cause it hurts when you hurt 
+NoahKahan | LadyGaga | False | Hold me close and I will not leave 
+NoahKahan | SamSmith | False | 'Cause it hurts when you hurt somebody 
+NoahKahan | Quadeca | False | So much to say, but I do not speak 
+NoahKahan | Beyonce | False | And I hate that I let you stop me (Oh) 
+NoahKahan | LadyGaga | False | Hold me close and I will not leave (I will not leave) 
+NoahKahan | SamSmith | False | 'Cause it hurts when you hurt somebody (Somebody, yeah) 
+NoahKahan | Quadeca | False | So much to say, but I do not speak 
+NoahKahan | RickAstley | False | And I hate that I let you stop me 
+NoahKahan | SamSmith | False | 'Cause it hurts when you hurt somebody, somebody 
+NoelGallagher | HarryStyles | False | Catch a falling star 
+NoelGallagher | NoahKahan | False | And we might drink to better days 
+NoelGallagher | NoelGallagher | True | Hiding what we find behind the sun 
+NoelGallagher | NoelGallagher | True | Thinking of what might have been 
+NoelGallagher | NoelGallagher | True | And what the future says 
+NoelGallagher | Beyonce | False | Waiting on a train that never comes 
+NoelGallagher | CharliePuth | False | Taking the long way home 
+NoelGallagher | TaylorSwift | False | So we can be alone 
+NoelGallagher | MargaretAtwood | False | Catching the butterflies 
+NoelGallagher | MichaelJackson | False | Under the council skies 
+NoelGallagher | MichaelJackson | False | Watching the world go by 
+NoelGallagher | TaylorSwift | False | 'Cause I believe in magical 
+NoelGallagher | Beyonce | False | I'm dedicated to it all 
+NoelGallagher | StevieNicks | False | And underneath the council sky 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | RickAstley | False | 'Cause life is unpredictable 
+NoelGallagher | Beyonce | False | You can win or lose it all 
+NoelGallagher | StevieNicks | False | And underneath the council sky 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | CharliePuth | False | Taking the long way home 
+NoelGallagher | TaylorSwift | False | So we can be alone 
+NoelGallagher | MargaretAtwood | False | Catching the butterflies 
+NoelGallagher | MichaelJackson | False | Under the council skies 
+NoelGallagher | MichaelJackson | False | Watching the world go by 
+NoelGallagher | TaylorSwift | False | 'Cause I believe in magical 
+NoelGallagher | Beyonce | False | I'm dedicated to it all 
+NoelGallagher | StevieNicks | False | And underneath the council sky 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | BillyJoel | False | Life is unpredictable 
+NoelGallagher | Beyonce | False | You can win or lose it all 
+NoelGallagher | StevieNicks | False | And underneath the council sky 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | Beyonce | False | I found you 
+NoelGallagher | HarryStyles | False | Catch a falling star 
+NoelGallagher | NoahKahan | False | And we might drink to better days 
+NoelGallagher | NoelGallagher | True | Hiding what we find behind the sun 
+NoelGallagher | NoelGallagher | True | Thinking of what might have been 
+NoelGallagher | NoelGallagher | True | And what the future says 
+NoelGallagher | Beyonce | False | Waiting on a train that never comes 
+Olivia_Rodrigo | LadyGaga | False | "the grudge" 
+Olivia_Rodrigo | LandonConrath | False | I have nightmares each week about that Friday in May 
+Olivia_Rodrigo | MichaelJackson | False | One phone call from you and my entire world was changed 
+Olivia_Rodrigo | ConanGray | False | Trust that you betrayed, confusion that still lingers 
+Olivia_Rodrigo | Beyonce | False | Took everything I loved and crushed it in between your fingers 
+Olivia_Rodrigo | RickAstley | False | And I doubt you ever think about the damage that you did 
+Olivia_Rodrigo | LadyGaga | False | But I hold onto every detail like my life depends on it 
+Olivia_Rodrigo | Beyonce | False | My undying love, now I hold it like a grudge 
+Olivia_Rodrigo | Quadeca | False | And I hear your voice every time that I think I'm not enough 
+Olivia_Rodrigo | Olivia_Rodrigo | True | And I try to be tough, but I wanna scream 
+Olivia_Rodrigo | CharliePuth | False | How could anybody do the things you did so easily? 
+Olivia_Rodrigo | ConanGray | False | And I say I do not care, I say that I'm fine 
+Olivia_Rodrigo | Beyonce | False | But you know I cannot let it go 
+Olivia_Rodrigo | Beyonce | False | I've tried, I've tried, I've tried for so long 
+Olivia_Rodrigo | MichaelJackson | False | It takes strength to forgive, but I do not feel strong 
+Olivia_Rodrigo | LadyGaga | False | The arguments that I have won against you in my head 
+Olivia_Rodrigo | MichaelJackson | False | In the shower, in the car and in the mirror before bed 
+Olivia_Rodrigo | Beyonce | False | Yeah, I'm so tough when I'm alone and I make you feel so guilty 
+Olivia_Rodrigo | TaylorSwift | False | And I fantasize about a time you are a little *bleep*in' sorry 
+Olivia_Rodrigo | RickAstley | False | And I try to understand why you would do this all to me 
+Olivia_Rodrigo | SmashMouth | False | You must be insecure, you must be so unhappy 
+Olivia_Rodrigo | ConanGray | False | And I know in my heart hurt people hurt people 
+Olivia_Rodrigo | TaylorSwift | False | And we both drew blood, but, man, those cuts were never equal 
+Olivia_Rodrigo | Olivia_Rodrigo | True | And I try to be tough, but I wanna scream 
+Olivia_Rodrigo | CharliePuth | False | How could anybody do the things you did so easily? 
+Olivia_Rodrigo | ConanGray | False | And I say I do not care, I say that I'm fine 
+Olivia_Rodrigo | Beyonce | False | But you know I cannot let it go 
+Olivia_Rodrigo | Beyonce | False | I've tried, I've tried, I've tried for so long 
+Olivia_Rodrigo | MichaelJackson | False | It takes strength to forgive, but I do not feel strong 
+Olivia_Rodrigo | Beyonce | False | Ooh, do you think I deserved it all? 
+Olivia_Rodrigo | Beyonce | False | Ooh, your flowers filled with vitriol 
+Olivia_Rodrigo | DanReynolds | False | You built me up to watch me fall 
+Olivia_Rodrigo | Drake | False | You have everything and you still want more 
+Olivia_Rodrigo | Olivia_Rodrigo | True | I try to be tough, I try to be mean 
+Olivia_Rodrigo | ConanGray | False | But even after all this, you are still everything to me 
+Olivia_Rodrigo | Olivia_Rodrigo | True | And I know you do not care, I guess that that is fine 
+Olivia_Rodrigo | Beyonce | False | But you know I cannot let it go 
+Olivia_Rodrigo | Beyonce | False | I've tried, I've tried, I've tried for so long 
+Olivia_Rodrigo | LadyGaga | False | It takes strength to forgive, but I'm not quite sure I'm there yet 
+Olivia_Rodrigo | MichaelJackson | False | It takes strength to forgive, but 
+Quadeca | LadyGaga | False |  
+Quadeca | LadyGaga | False | I wasn't born yesterday 
+Quadeca | Drake | False | I think you are goddamn lyin' 
+Quadeca | LadyGaga | False | I wasn't born yesterday 
+Quadeca | Drake | False | I think you are goddamn lyin' 
+Quadeca | LadyGaga | False | I wasn't born yesterday (Oh) 
+Quadeca | LadyGaga | False | I wasn't born anyway (Oh) 
+Quadeca | Beyonce | False | I laughed when you went away (Oh) 
+Quadeca | Drake | False | I think you are goddamn lyin' 
+Quadeca | MichaelJackson | False | (To me) 
+Quadeca | RickAstley | False | You want her, you need her (To me) 
+Quadeca | MichaelJackson | False | And yet you do not believe her (To me) 
+Quadeca | RickAstley | False | You want her, you need her (To me) 
+Quadeca | MichaelJackson | False | And yet you do not believe her (To me) 
+Quadeca | ConanGray | False | You want her, you need her 
+Quadeca | LadyGaga | False | (She no longer needs you, you, you) 
+Quadeca | MichaelJackson | False | (To me) 
+Quadeca | ConanGray | False | You want her, you need her 
+Quadeca | LadyGaga | False | (She no longer needs you, you, you) 
+Quadeca | Beyonce | False | (To me, to me) 
+Quadeca | LadyGaga | False | (I wasn't born yesterday, oh) 
+Quadeca | MichaelJackson | False | You said I'm in a better place 
+Quadeca | Quadeca | True | I got new birthday to celebrate 
+Quadeca | LadyGaga | False | (I wasn't born anyway, oh) 
+Quadeca | Quadeca | True | Those candles that you could not light 
+Quadeca | TaylorSwift | False | You threw them out and you wondered why 
+Quadeca | Beyonce | False | (I cried when you went away, oh) 
+Quadeca | RickAstley | False | Don't know, I blew them out for me 
+Quadeca | CharliePuth | False | Until I forgot how to breathe 
+Quadeca | MichaelJackson | False | (I think you are goddamn lying) 
+Quadeca | Olivia_Rodrigo | False | I popped a vein and I made a wish 
+Quadeca | Beyonce | False | I made a wish that'll never be 
+Quadeca | TaylorSwift | False | For now I'm here 
+Quadeca | Beyonce | False | I've been in so many tears, I try my best not to count it 
+Quadeca | Beyonce | False | I've been in so many hearts, I've been in so many prayers 
+Quadeca | Beyonce | False | I've been in so many couches 
+Quadeca | Beyonce | False | I've been in so many lies, I've lived so many lives 
+Quadeca | Quadeca | True | I've lived in so many houses 
+Quadeca | CatStevens | False | I've been subject to change, I keep circlin' dates 
+Quadeca | RickAstley | False | I keep thinking about it 
+Quadeca | Beyonce | False | I've been trying to unsee how you moved on from me 
+Quadeca | Beyonce | False | 'Cause it feels like without me 
+Quadeca | Beyonce | False | I been ripped from the floor, that umbilical cord is still sorta around me 
+Quadeca | LadyGaga | False | I wasn't born yesterday, mm-mm 
+Quadeca | RickAstley | False | I think you are goddamn lyin', mm 
+Quadeca | LadyGaga | False | I wasn't born yesterday 
+Quadeca | RickAstley | False | I think you are goddamn lyin' (To me) 
+Quadeca | CharliePuth | False | I wasn't born yesterday (Oh, to me) 
+Quadeca | CharliePuth | False | I wasn't born anyway (Oh, to me) 
+Quadeca | MichaelJackson | False | I cried when you went away (Oh, to me) 
+Quadeca | RickAstley | False | I think you are goddamn lyin' (To me) 
+Quadeca | LadyGaga | False | I wasn't born yesterday (Oh) 
+Quadeca | LadyGaga | False | I wasn't born anyway (Oh) 
+Quadeca | CharliePuth | False | (And yet you do not believe her) 
+Quadeca | Beyonce | False | I cried when you went away (Oh) 
+Quadeca | LadyGaga | False | (She no longer needs you, you, you) 
+Quadeca | Drake | False | I think you are goddamn lyin' 
+Quadeca | Beyonce | False | (You, you, you) 
+Quadeca | LadyGaga | False | (I wasn't born yesterday, oh) 
+Quadeca | MichaelJackson | False | It gets so bright, I disappear 
+Quadeca | MichaelJackson | False | It's been twelve nights and a million years 
+Quadeca | LadyGaga | False | (I wasn't born anyway, oh) 
+Quadeca | NoahKahan | False | That weight gets heavy when I'm breathing 
+Quadeca | TaylorSwift | False | You gave me something to believe in 
+Quadeca | Beyonce | False | (I cried when you went away, oh) 
+Quadeca | MichaelJackson | False | You said it happened for a reason 
+Quadeca | Olivia_Rodrigo | False | I swear to God, I think you are goddamn lying 
+Quadeca | MichaelJackson | False | (To me) 
+Quadeca | LadyGaga | False | (You want her, you need her) 
+Quadeca | TheAllAmericanRejects | False | Those little things 
+Quadeca | Beyonce | False | I should have said out loud 
+Quadeca | TheAllAmericanRejects | False | All those little things 
+Quadeca | LadyGaga | False | That weigh heavy on the clouds 
+Quadeca | NoahKahan | False | I had just a hint of doubt 
+Quadeca | Beyonce | False | I wish I let that hint become me 
+Quadeca | TheAllAmericanRejects | False | Just a little doubt 
+Quadeca | TaylorSwift | False | Couldn't figure out how to outrun me 
+Quadeca | TaylorSwift | False | And I'd be free if I just saved the date 
+Quadeca | Beyonce | False | I'd be there with you right now 
+Quadeca | Beyonce | False | And that day plan should have stayed delayed 
+Quadeca | Olivia_Rodrigo | False | 'Cause the only thing I want is out 
+Quadeca | TheAllAmericanRejects | False | And it is all those little things 
+Quadeca | Beyonce | False | I should have said out loud 
+Quadeca | Queen | False | Every little thing 
+Quadeca | Olivia_Rodrigo | False | I did to make you proud 
+Quadeca | LadyGaga | False | (I wasn't born yesterday) 
+Quadeca | MichaelJackson | False | (I think you are goddamn lyin') 
+Quadeca | LadyGaga | False | (I wasn't born yesterday) 
+Quadeca | Beyonce | False | You know I'ma need you, you, you 
+Quadeca | MichaelJackson | False | (I think you are goddamn lyin') 
+Quadeca | JohnLennon | False | You, you, you 
+Quadeca | MichaelJackson | False | (To me) 
+Quadeca | JohnLennon | False | You, you, you 
+Quadeca | LadyGaga | False | (I wasn't born yesterday, oh) 
+Quadeca | ConanGray | False | You want her, you need her 
+Quadeca | MichaelJackson | False | And yet you do not believe her 
+Quadeca | LadyGaga | False | (I wasn't born anyway, oh) 
+Quadeca | LadyGaga | False | She no longer needs you, you, you 
+Quadeca | Beyonce | False | (I cried when you went away, oh) 
+Quadeca | JohnLennon | False | You, you, you 
+Quadeca | MichaelJackson | False | (I think you are goddamn lyin') 
+Quadeca | LadyGaga | False | She no longer needs you, you, you 
+Quadeca | JohnLennon | False | You, you, you 
+Queen | MichaelJackson | False | You're My Best Friend 
+Queen | MichaelJackson | False | Ooh, you make me live 
+Queen | MichaelJackson | False | Whatever this world can give to me 
+Queen | Beyonce | False | It's you, you are all I see 
+Queen | MichaelJackson | False | Ooh, you make me live now, honey 
+Queen | MichaelJackson | False | Ooh, you make me live 
+Queen | Beyonce | False | Oh, you are the best friend that I ever had 
+Queen | CharliePuth | False | I've been with you such a long time 
+Queen | LadyGaga | False | You're my sunshine 
+Queen | CatStevens | False | And I want you to know 
+Queen | LadyGaga | False | That my feelings are true 
+Queen | LadyGaga | False | I really love you 
+Queen | Beyonce | False | (Ooh) Oh, you are my best friend 
+Queen | MichaelJackson | False | Ooh, you make me live 
+Queen | CharliePuth | False | Ooh, I've been wandering 'round ('Round) 
+Queen | TaylorSwift | False | But still come back to you 
+Queen | Beyonce | False | (Ooh, still come back to you) 
+Queen | Beyonce | False | In rain or shine, you have stood by me, girl (Girl) 
+Queen | LadyGaga | False | I'm happy at home 
+Queen | Drake | False | (happy at home) 
+Queen | Beyonce | False | You're my best friend 
+Queen | MichaelJackson | False | Ooh, you make me live 
+Queen | MichaelJackson | False | Whenever this world is cruel to me 
+Queen | Beyonce | False | I got you to help me forgive 
+Queen | MichaelJackson | False | Ooh, you make me live now, honey 
+Queen | MichaelJackson | False | Ooh, you make me live 
+Queen | TaylorSwift | False | Oh, you are the first one 
+Queen | DanReynolds | False | When things turn out bad 
+Queen | TaylorSwift | False | You know I'll never be lonely 
+Queen | Drake | False | You're my only one 
+Queen | Drake | False | And I love the things 
+Queen | Olivia_Rodrigo | False | I really love the things that you do 
+Queen | Beyonce | False | Oh, you are my best friend (Oh) 
+Queen | MichaelJackson | False | Ooh, you make me live 
+Queen | LadyGaga | False | (Live, live, live) 
+Queen | LadyGaga | False | I'm happy, happy at home 
+Queen | Beyonce | False | You're my best friend, oh 
+Queen | Beyonce | False | Oh, you are my best friend 
+Queen | MichaelJackson | False | Ooh, you make me live, ooh 
+Queen | Beyonce | False | Ooh, you are my best friend 
+RickAstley | LadyGaga | False | We're no strangers to love 
+RickAstley | Beyonce | False | You know the rules and so do I (do I) 
+RickAstley | TheAllAmericanRejects | False | A full commitment's what I'm thinking of 
+RickAstley | MichaelJackson | False | You would not get this from any other guy 
+RickAstley | CharliePuth | False | I just wanna tell you how I'm feeling 
+RickAstley | MichaelJackson | False | Gotta make you understand 
+RickAstley | Drake | False | Never gonna give you up 
+RickAstley | RickAstley | True | Never gonna let you down 
+RickAstley | RickAstley | True | Never gonna run around and desert you 
+RickAstley | RickAstley | True | Never gonna make you cry 
+RickAstley | RickAstley | True | Never gonna say goodbye 
+RickAstley | RickAstley | True | Never gonna tell a lie and hurt you 
+RickAstley | NoahKahan | False | We've known each other for so long 
+RickAstley | CharliePuth | False | Your heart's been aching, but you are too shy to say it (say it) 
+RickAstley | Drake | False | Inside, we both know what is been going on (going on) 
+RickAstley | SmashMouth | False | We know the game and we are gonna play it 
+RickAstley | TaylorSwift | False | And if you ask me how I'm feeling 
+RickAstley | Drake | False | Don't tell me you are too blind to see 
+RickAstley | Drake | False | Never gonna give you up 
+RickAstley | RickAstley | True | Never gonna let you down 
+RickAstley | RickAstley | True | Never gonna run around and desert you 
+RickAstley | RickAstley | True | Never gonna make you cry 
+RickAstley | RickAstley | True | Never gonna say goodbye 
+RickAstley | RickAstley | True | Never gonna tell a lie and hurt you 
+RickAstley | Drake | False | Never gonna give you up 
+RickAstley | RickAstley | True | Never gonna let you down 
+RickAstley | RickAstley | True | Never gonna run around and desert you 
+RickAstley | RickAstley | True | Never gonna make you cry 
+RickAstley | RickAstley | True | Never gonna say goodbye 
+RickAstley | RickAstley | True | Never gonna tell a lie and hurt you 
+RickAstley | NoahKahan | False | We've known each other for so long 
+RickAstley | RickAstley | True | Your heart's been aching, but you are too shy to say it (to say it) 
+RickAstley | Drake | False | Inside, we both know what is been going on (going on) 
+RickAstley | SmashMouth | False | We know the game and we are gonna play it 
+RickAstley | CharliePuth | False | I just wanna tell you how I'm feeling 
+RickAstley | MichaelJackson | False | Gotta make you understand 
+RickAstley | Drake | False | Never gonna give you up 
+RickAstley | LadyGaga | False |  
+
+Accuracy: 0.09460406447091801
+Correct Predictions: 135
+Total Predictions: 1427
